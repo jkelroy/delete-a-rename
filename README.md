@@ -5,4 +5,4 @@ dsf
 
 asdf
 
-![here.gif](/.github/example.1.gif)
+![here.gif](/.github/example-1.gif)
